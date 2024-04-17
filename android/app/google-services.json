@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929526310137",
+    "project_id": "dostava360-c61cf",
+    "storage_bucket": "dostava360-c61cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929526310137:android:68791f2dc9bbbadaccee28",
+        "android_client_info": {
+          "package_name": "com.partner.dostava360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8leHDQaLA2_OrW_sZopQvPVadCUttKUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929526310137:android:e5bc91e61aa66144ccee28",
+        "android_client_info": {
+          "package_name": "com.rider.dostava360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8leHDQaLA2_OrW_sZopQvPVadCUttKUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
